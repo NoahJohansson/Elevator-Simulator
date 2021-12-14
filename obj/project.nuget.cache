@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kO8VhiCohb7+Y29xvzq1YIbztVihv7O5URQfP8PQkOep+U5UXC1aohPB3TmaEPOK7LUP7khE/0H14vu+ls+S4g==",
+  "success": true,
+  "projectFilePath": "E:\\Nedladdningar\\ElevatorProject_A3\\ElevatorProject_A3\\ElevatorProject_A3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Felix\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Felix\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.exe
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.deps.json
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.json
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.dev.json
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.csprojAssemblyReference.cache
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfoInputs.cache
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfo.cs
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+C:/Users/Lenovo/source/repos/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.csprojAssemblyReference.cache
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.csproj.CoreCompileInputs.cache
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfoInputs.cache
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfo.cs
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.exe
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.deps.json
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.json
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.dev.json
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/bin/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+E:/Nedladdningar/ElevatorProject_A3/ElevatorProject_A3/obj/Debug/netcoreapp3.0/ElevatorProject_A3.genruntimeconfig.cache
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/bin/Debug/netcoreapp3.0/ElevatorProject_A3.deps.json
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.json
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/bin/Debug/netcoreapp3.0/ElevatorProject_A3.runtimeconfig.dev.json
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/bin/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/bin/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.csprojAssemblyReference.cache
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.csproj.CoreCompileInputs.cache
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfoInputs.cache
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.AssemblyInfo.cs
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.dll
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.pdb
+/Users/ericremneback/Downloads/ElevatorProject_A3 4/obj/Debug/netcoreapp3.0/ElevatorProject_A3.genruntimeconfig.cache
